@@ -1,0 +1,64 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/tmp/d-116116-29560-vajopi/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/tmp/d-116116-29560-vajopi/package.tgz",
+        "spec": "/tmp/d-116116-29560-vajopi/package.tgz",
+        "type": "local"
+      },
+      "/tmp/apm-install-dir-116116-29560-qycjwe"
+    ]
+  ],
+  "_from": "../d-116116-29560-vajopi/package.tgz",
+  "_id": "borealis-syntax@0.6.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/borealis-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/tmp/d-116116-29560-vajopi/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/tmp/d-116116-29560-vajopi/package.tgz",
+    "spec": "/tmp/d-116116-29560-vajopi/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-116116-29560-vajopi/package.tgz",
+  "_shasum": "b00538cde56eb078a82e88e43e76c40bf1909948",
+  "_shrinkwrap": null,
+  "_spec": "/tmp/d-116116-29560-vajopi/package.tgz",
+  "_where": "/tmp/apm-install-dir-116116-29560-qycjwe",
+  "bugs": {
+    "url": "https://github.com/Misophistful/borealis-syntax/issues"
+  },
+  "dependencies": {},
+  "description": "A dark theme with pastel colours",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/Misophistful/borealis-syntax#readme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "license": "MIT",
+  "name": "borealis-syntax",
+  "optionalDependencies": {},
+  "readme": "# borealis-syntax Atom theme\n\nAtom syntax theme with a dark background and pastel text. Designed with Clojure in mind, but you might like how it looks with other languages too.\n\n![Theme screenshot](https://raw.githubusercontent.com/Misophistful/borealis-syntax/master/images/screenshot.png)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Misophistful/borealis-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "0.6.0"
+}
